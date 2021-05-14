@@ -1,6 +1,6 @@
 # microblog-backend
 
-This is the backend API for our demo microblog (knockoff twitter) application.
+This is the backend API for our demo microblog (knockoff twitter) application. hook2
 
 It is written in Python using the [Django](https://www.djangoproject.com/) framework.
 
